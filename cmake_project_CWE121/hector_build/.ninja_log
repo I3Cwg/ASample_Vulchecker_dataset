@@ -1,0 +1,20 @@
+# ninja log v5
+0	290	1702286827867378609	CMakeFiles/good.dir/src/good.cpp.o	80a81951367483c1
+292	390	1702286827969132213	good	d5ca8ef6e114acc0
+0	255	1702286848609610792	src/good.ll	882ee7c8b4b1045e
+255	278	1702286848637151594	good-combine_ll.ll	c49019c506e92b0c
+278	284	1702286848641085994	good-allow_optimization.ll	f6b3d1d622f9b076
+285	324	1702286848680429996	good-opt_indirectbr.ll	f49c2a9ea966e7ed
+324	357	1702286848711905198	good-opt_globaldce.ll	824b26e1c553a9b2
+357	391	1702286848747314799	hector-121.json	308b38b2d77b7ab7
+1	15	1702287030639227206	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-combine_ll.ll	a9b86f638ef157bc
+15	21	1702287030647072006	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-allow_optimization.ll	81a953a7ceafe41f
+21	57	1702287030678451207	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-opt_indirectbr.ll	f83f67da26963c6c
+57	91	1702287030713752809	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-opt_globaldce.ll	6654330a1853a826
+91	126	1702287030745132011	hector-121.json	4ed56ab1976f6861
+2	322	1702287178454266149	src/good.ll	882ee7c8b4b1045e
+322	334	1702287178469934949	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-combine_ll.ll	a9b86f638ef157bc
+334	340	1702287178473852150	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-allow_optimization.ll	81a953a7ceafe41f
+340	371	1702287178505189751	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-opt_indirectbr.ll	f83f67da26963c6c
+372	402	1702287178532610153	%2Fhome%2Fvulchecker%2Fcmake_project_CWE121%2Fsrc%2Fgood.cpp-opt_globaldce.ll	6654330a1853a826
+402	437	1702287178567864956	hector-121.json	4ed56ab1976f6861

@@ -1,0 +1,12 @@
+[
+    {
+        "filename": "good.cpp",
+        "line_number": 20,
+        "label": "first_free"
+    },
+    {
+        "filename": "good.cpp",
+        "line_number": 29,
+        "label": "second_free"
+    }
+]

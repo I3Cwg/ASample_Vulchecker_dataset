@@ -1,0 +1,5 @@
+/home/vulchecker/cmake_project/build/CMakeFiles/good.dir
+/home/vulchecker/cmake_project/build/CMakeFiles/bad.dir
+/home/vulchecker/cmake_project/build/CMakeFiles/check.dir
+/home/vulchecker/cmake_project/build/CMakeFiles/edit_cache.dir
+/home/vulchecker/cmake_project/build/CMakeFiles/rebuild_cache.dir

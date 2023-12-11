@@ -1,0 +1,7 @@
+CWE,manif_file,manif_line,rc_file,rc_line,probability
+190,//usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/iostream,74,,,0.5360334222867095
+190,//usr/lib/gcc/x86_64-linux-gnu/9/../../../../include/c++/9/iostream,74,,,0.5356272373779992
+190,hector_build/../src/good.cpp,23,,,0.5352317424809718
+190,hector_build/../src/good.cpp,8,,,0.5351637883210213
+190,hector_build/../src/good.cpp,12,hector_build/../src/good.cpp,11,0.5352737722388641
+190,hector_build/../src/good.cpp,25,hector_build/../src/good.cpp,11,0.5352600183484287

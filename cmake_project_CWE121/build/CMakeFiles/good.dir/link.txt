@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/good.dir/src/good.cpp.o -o good 

@@ -1,0 +1,12 @@
+[
+    {
+        "filename": "good.cpp",
+        "line_number": 18,
+        "label": "declared_buffer"
+    },
+    {
+        "filename": "good.cpp",
+        "line_number": 25,
+        "label": "stack_overflow"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "filename": "good.cpp",
+        "line_number": 11,
+        "label": "overflowed_variable"
+    },
+    {
+        "filename": "good.cpp",
+        "line_number": 12,
+        "label": "overflowed_call"
+    }
+
+]
